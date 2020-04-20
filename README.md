@@ -1,7 +1,9 @@
 # My-Speech-Text-Reader-Web-App
 
-##How TO RUN
+How TO RUN
+
 Download the repository and run the index.html file
+
 IDE: Visual Studio Code
 
 Images return the audio of the text when clicked
